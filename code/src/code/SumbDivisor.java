@@ -21,12 +21,8 @@ class SumDivisor {
 			}else if(robots[i] -2 > 0){
 				result += robots[i];
 			}
-			
-			
-			
-			
 		}
-		return 0;
+		return result;
 	}
 
 	// 아래는 테스트로 출력해 보기 위한 코드입니다.
